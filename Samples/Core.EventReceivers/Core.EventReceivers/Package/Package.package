@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="66786920-ced2-4abe-8eda-4c2cf5640cc3" solutionId="66786920-ced2-4abe-8eda-4c2cf5640cc3" resetWebServer="false" sharePointProductVersion="15.0" name="Core.EventReceivers" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="af9458ec-c8b1-4d08-b9f1-b085f7d81a42" />
+  </features>
+</package>
